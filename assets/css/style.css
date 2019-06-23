@@ -1,0 +1,82 @@
+/* jumbotron */
+.jumbotron{
+   
+    height: 160px; 
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    background-color: #00000067;
+    color: #ff5e22;
+    padding: 10px;
+    
+}
+
+body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-image: url("../image/background.jpg");
+    background-color: #f0f8ff;
+}
+
+
+/* Start button */
+.btn-group-lg>.btn, .btn-lg{
+    margin-left: 70px;
+    width: 400px;
+    height: 100px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    background-color: #ff5d2271;
+    color: #f0f8ff;
+    font-size: 2em;
+}
+
+/* Start button */
+#start{
+ margin-left: 370px;
+}
+
+#question{
+    text-align: center;
+    background-color: #f0f8ffcc;
+    color: black;
+}
+
+/* Done -button */
+#stop{
+    background-color: blue;
+    height: 50px;
+    width: 200px;
+    color: aliceblue;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+/* Radio button */
+input{
+    margin-right: 2px;
+    margin-left: 15px;
+    background-color: blue;
+    border: blue;
+}
+
+
+/* Time Remaining: 60 Seconds */
+#countdown{
+    color: blue;
+    background-color: #f0f8ff;
+}
+
+ /* display result */
+.p{
+   
+    background-color: black;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+
+/* display result */
+#g{
+    color: green;
+}
+#r{
+    color: red;
+}
+ #y{
+     color: yellow;
+ }
